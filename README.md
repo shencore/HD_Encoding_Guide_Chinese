@@ -4,6 +4,8 @@
 
 进阶 [[翻译]进阶高清视频压制指南20211229](https://github.com/shencore/HD_Encoding_Guide_Chinese/blob/main/%5B%E7%BF%BB%E8%AF%91%5D%E8%BF%9B%E9%98%B6%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%E5%8E%8B%E5%88%B6%E6%8C%87%E5%8D%9720211229.md)
 
+参考 [VapourSynth相关资源](https://github.com/shencore/HD_Encoding_Guide_Chinese/blob/main/VapourSynth%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90.md)
+
 部分脚本 [地址](https://github.com/shencore/HD_Encoding_Guide_Chinese/tree/main/Scripts)
 
 ## 版权说明
