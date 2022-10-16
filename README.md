@@ -1,0 +1,2 @@
+# HD_Encoding_Guide_Chinese
+HD_Encoding_Guide_Chinese
