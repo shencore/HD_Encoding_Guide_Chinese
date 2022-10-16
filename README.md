@@ -1,2 +1,14 @@
-# HD_Encoding_Guide_Chinese
-HD_Encoding_Guide_Chinese
+# HD_Encoding_Guide_Chinese 高清编码指南 中文版
+
+正文 [高清编码指南 中文版](https://github.com/shencore/HD_Encoding_Guide_Chinese/blob/main/%E9%AB%98%E6%B8%85%E7%BC%96%E7%A0%81%E6%8C%87%E5%8D%97%20%E4%B8%AD%E6%96%87%E7%89%88.md)
+
+进阶 [[翻译]进阶高清视频压制指南20211229](https://github.com/shencore/HD_Encoding_Guide_Chinese/blob/main/%5B%E7%BF%BB%E8%AF%91%5D%E8%BF%9B%E9%98%B6%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%E5%8E%8B%E5%88%B6%E6%8C%87%E5%8D%9720211229.md)
+
+部分脚本 [地址](https://github.com/shencore/HD_Encoding_Guide_Chinese/tree/main/Scripts)
+
+## 版权说明
+
+高清编码指南中文版 英文原文来自：https://tehconnection.eu/forums.php?action=viewthread&threadid=3251  网站TeH已经关闭多年。该链接早已失效，在很多类似网站的论坛或Wiki里流传有一篇[HD x264 Encoding Guide [Windows]](https://passthepopcorn.me/forums.php?action=viewthread&threadid=8810)  大体来说是同一篇文章。
+中文译本来自[GPW的WIKI](https://greatposterwall.com/wiki.php?action=article&name=x264+%E9%AB%98%E6%B8%85%E7%BC%96%E7%A0%81%E6%8C%87%E5%8D%97)，笔者基于自己多年压制经验进行了大幅度修改，移除了过时内容，并引入了这些年新推出的更易用同时功能更强大的工具。
+
+[翻译]进阶高清视频压制指南20211229 英文原文来自[这里](https://github.com/typing-more/encode_guide/raw/master/encode_guide_English.pdf)，中文版来自[这里](https://blog.cfandora.com/archives/211/) 本人对排版与名词翻译进行了修订，找回了丢失的原图并替换进文内。
