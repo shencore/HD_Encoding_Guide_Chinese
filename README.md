@@ -8,9 +8,11 @@
 
 部分脚本 [地址](https://github.com/shencore/HD_Encoding_Guide_Chinese/tree/main/Scripts)
 
+如条件合适，推荐从[releases](https://github.com/shencore/HD_Encoding_Guide_Chinese/releases)下载后阅读html版，而且能读到由于各种原因从md版移除的内容。阅读md版，推荐用typora。
+
 ## 版权说明
 
 高清编码指南中文版 英文原文来自：https://tehconnection.eu/forums.php?action=viewthread&threadid=3251  网站TeH已经关闭多年。该链接早已失效，在很多类似网站的论坛或Wiki里流传有一篇[HD x264 Encoding Guide [Windows]](https://passthepopcorn.me/forums.php?action=viewthread&threadid=8810)  大体来说是同一篇文章。
 中文译本来自[GPW的WIKI](https://greatposterwall.com/wiki.php?action=article&name=x264+%E9%AB%98%E6%B8%85%E7%BC%96%E7%A0%81%E6%8C%87%E5%8D%97)，笔者基于自己多年压制经验进行了大幅度修改，移除了过时内容，并引入了这些年新推出的更易用同时功能更强大的工具。
 
-[翻译]进阶高清视频压制指南20211229 英文原文来自[这里](https://github.com/typing-more/encode_guide/raw/master/encode_guide_English.pdf)，中文版来自[这里](https://blog.cfandora.com/archives/211/) 本人对排版与名词翻译进行了修订，找回了丢失的原图并替换进文内。
+[翻译]进阶高清视频压制指南20211229 英文原文来自[这里](https://github.com/typing-more/encode_guide/)，中文版来自[这里](https://blog.cfandora.com/archives/211/) 本人对排版与名词翻译进行了修订，找回了丢失的原图并替换进文内。Advanced HD Video Encoding Guide.pdf系从原文地址拉取latex，我自行编译的，原文那里的编译版本有些不影响大局的小错误，我进行了修正。
